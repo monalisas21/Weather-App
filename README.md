@@ -1,2 +1,3 @@
 # Weather-App
-This is a Web Page that tells you about the Weather at the entered desired location.
+WeatherGuru is a web application that tells you about weather of your Area including the temperature (in degree celsius), Humidity (in percentage) and the Weather Description.
+ferijrf
