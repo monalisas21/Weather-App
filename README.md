@@ -2,6 +2,7 @@
 
 This web application provides real-time weather information, forecasts, and historical data using the OpenWeatherMap API. Designed to be user-friendly and informative, it offers a range of features to help you stay updated with the latest weather conditions.
 
+LIVE DEMO : https://monalisas21.github.io/Weather-App/
 ## Features:
 
 * Current Weather Data: Get real-time weather updates including temperature, humidity, wind speed, and atmospheric pressure.
